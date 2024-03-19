@@ -10,7 +10,7 @@
 ## 프로젝트 소개
 - 프로젝트명: 호텔신라 리뉴얼
 - 프로젝트 진행 기간:  2024/02/22 ~ 2024/02/29
-- 기술 스택: Html, Css, JavaScript, jQuery, Java, OracleDB
+- 기술 스택: Java, OracleDB, Tomcat
 - 기획서: [클릭시 이동 💁‍♀️](https://www.canva.com/design/DAF9fY6wueg/AvRaibpK2GTFSR1bAHAqyw/edit?utm_content=DAF9fY6wueg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)</p>
 
 <br />
