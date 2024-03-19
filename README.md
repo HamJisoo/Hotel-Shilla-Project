@@ -8,7 +8,8 @@
 </p>
 
 ## 프로젝트 소개 💁‍♀️
-- 프로젝트명: 호텔신라 리뉴얼
+- 프로젝트명: 호텔신라 리뉴얼 서버프로그램 구현
+- 프로젝트 목표: 기존에 리뉴얼한 신라호텔 홈페이지에 로그인, 회원가입, 게시판과 관련된 CRUD 기능 추가 구현
 - 프로젝트 진행 기간:  2024/02/22 ~ 2024/02/29
 - 기술 스택: Java, OracleDB, Tomcat
 - 기획서: [클릭시 이동👆](https://www.canva.com/design/DAF9fY6wueg/AvRaibpK2GTFSR1bAHAqyw/edit?utm_content=DAF9fY6wueg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)</p>
